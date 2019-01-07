@@ -9,5 +9,4 @@ class MiClase
 end
 
 MiClase.new.de_instancia
-
 MiClase.new.de_clase
